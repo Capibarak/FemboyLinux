@@ -6,5 +6,6 @@ you need to have archlinux a vm will work
 do 
 git clone https://github.com/Capibarak/FemboyLinux.git
 cd in the repo
-and
+copy opt/ezrepo in /opt
+and to build
 sudo mkarchiso -v -o output/ releng/
